@@ -1,3 +1,3 @@
 # tumbler_simulator
-A tiny scene generally achieving tumbler simulatioin, special effects simulation of fireballs etc.
-The project is written in vc++ opengl.
+A tiny scene generally achieving physical simulation of the tumbler, special effects simulation of fireball etc.
+Written in vc++.
